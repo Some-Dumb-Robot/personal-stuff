@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "d11cae00820558d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fede2bc04980ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1558b357fb0f6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSD/September 23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "September 23"
+            }
+          },
+          {
+            "id": "5dd9e5185d493503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems programming/USERS and Groups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USERS and Groups"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5259932bb7e03e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "f423a7f4fc6e2d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "081ad0afa9003ac3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e272f8422d532777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "586190ec853004b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c671d8bd98d6ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c9dcd401df4d25d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f51413c965bc15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dd52765654a03a02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1eab2021c175f8ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d53323f3d89071e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "37275a343ced9000",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5dd9e5185d493503",
+  "lastOpenFiles": [
+    "Systems programming/sept 22nd.canvas",
+    "Systems programming/USERS and Groups.md",
+    "DSD/Designing with FPGAs.md",
+    "DSD/September 23.md",
+    "DSD/Untitled.base",
+    "Systems programming/Kernals.md",
+    "DSD/september 21st.md",
+    "malloc_example2.c",
+    "hello.txt",
+    "file_io.c",
+    "a.out",
+    "Sept22.c",
+    "Sept17 copy.c",
+    "DSD/Pros and cons of FPGAs.md",
+    "DSD/Morton Bingo DSD 1.png",
+    "DSD/Bingo board.canvas",
+    "DSD/Morton Bingo DSD.png",
+    "create a link.md",
+    "Welcome.md",
+    "Untitled",
+    "DSD",
+    "Systems programming"
+  ]
+}
